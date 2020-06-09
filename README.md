@@ -1,2 +1,4 @@
 # basic_auth
-RESTEasy Basic Authentication and Authorization Tutorial
+RESTful Basic Authentication and Authorization Tutorial.
+
+Using Jersey framework for REST API implementation
